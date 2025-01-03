@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 A Fullstack Developer learning AI and ML
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/G74LKP9zsfLInmz3H6" width="100"/>
 </div>
 
 - 🔭 I’m currently working on app that connects a Dispatch Software with Whatsapp using Ollama Chat to request rides.  
