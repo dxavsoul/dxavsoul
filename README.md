@@ -16,6 +16,9 @@ A Fullstack Developer learning AI and ML
 - 🤔 I’m looking for help with ML projects where I can collaborate and learn
 - 💬 Ask me about Java, Spring MVC, C#, ASP.Net, Dart, Typescript, Flutter, SQL and CyberSecurity
 - 📫 How to reach me: www.linkedin.com/in/mxsarmiento
+- <div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like adrenaline, I always ready to ride a bike, jump from a bridge, crossing the ocean in a Catamaran, you must give me time to orchestrate my time
 
