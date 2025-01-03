@@ -25,3 +25,4 @@ A Fullstack Developer learning AI and ML
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like adrenaline, I always ready to ride a bike, jump from a bridge, crossing the ocean in a Catamaran, you must give me time to orchestrate my time
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxavsoul)](https://github.com/anuraghazra/github-readme-stats)
