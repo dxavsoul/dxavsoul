@@ -24,7 +24,8 @@ A Fullstack Developer learning AI and ML
 </div>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like adrenaline, I always ready to ride a bike, jump from a bridge, crossing the ocean in a Catamaran, you must give me time to orchestrate my time
-
+<br/>
+<br/>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
