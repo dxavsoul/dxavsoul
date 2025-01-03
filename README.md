@@ -8,8 +8,9 @@ A Fullstack Developer learning AI and ML
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem96M24xa21mcmowOHk1dzh1ZXNqY3M1bXptMWp4Yng1eGMzdWF6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=dxavsoul&color=brightgreen" /> 
 </div>
-![](https://komarev.com/ghpvc/?username=dxavsoul&color=brightgreen)
+
 
 - 🔭 I’m currently working on app that connects a Dispatch Software with Whatsapp using Ollama Chat to request rides.  
 - 🌱 I’m currently learning AI and ML, 
