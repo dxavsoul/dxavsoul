@@ -19,6 +19,7 @@ A Fullstack Developer learning AI and ML
 - 🤔 I’m looking for help with ML projects where I can collaborate and learn
 - 💬 Ask me about Java, Spring MVC, C#, ASP.Net, Dart, Typescript, Flutter, SQL and CyberSecurity
 - 📫 How to reach me: www.linkedin.com/in/mxsarmiento
+- 📫 My Resume: [www.linkedin.com/in/mxsarmiento](https://github.com/dxavsoul/resume/blob/main/PDF/Resume.pdf)
 - <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
@@ -26,6 +27,9 @@ A Fullstack Developer learning AI and ML
 - ⚡ Fun fact: I like adrenaline, I always ready to ride a bike, jump from a bridge, crossing the ocean in a Catamaran, you must give me time to orchestrate my time
 <br/>
 <br/>
+<div>
+  <
+</div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
