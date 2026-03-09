@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**dxavsoul/dxavsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 A Full-stack Developer, AI, and ML Builder
 
 <div id="header" align="center">
@@ -13,27 +9,25 @@ A Full-stack Developer, AI, and ML Builder
 </div>
 
 
-- 🔭 I’m currently working on app that connects a Dispatch Software with Whatsapp using Ollama Chat to request rides.  
-- 🌱 I’m currently learning AI and ML, 
-- 👯 I’m looking to collaborate on projects that can help people grow
-- 🤔 I’m looking for help with ML projects where I can collaborate and learn
-- 💬 Ask me about Java, Spring MVC, C#, ASP.Net, Dart, Typescript, Flutter, SQL and CyberSecurity
+- 🔭 I’m currently working on app that connects a Dispatch Software with Whatsapp using Ollama Chat to request rides.
+- 💼 I recently built [JobUp-Administrator](https://github.com/dxavsoul/JobUp-Administrator), a comprehensive job platform connecting job seekers with employers, featuring voice-enabled resume building, an ATS, and AI integrations using FastAPI, React, TypeScript, and PostgreSQL.
+- 🌱 I’m currently learning AI and ML.
+- 👯 I’m looking to collaborate on projects that can help people grow.
+- 🤔 I’m looking for help with ML projects where I can collaborate and learn.
+- 💬 Ask me about Java, Spring MVC, C#, ASP.Net, Dart, Typescript, Flutter, SQL and CyberSecurity.
 - 📫 How to reach me: www.linkedin.com/in/mxsarmiento
 - 📫 My Resume: [Resume](https://github.com/dxavsoul/resume/blob/main/PDF/Resume.pdf)
 - <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like adrenaline, I always ready to ride a bike, jump from a bridge, crossing the ocean in a Catamaran, you must give me time to orchestrate my time
+- ⚡ Fun fact: I like adrenaline, I am always ready to ride a bike, jump from a bridge, or cross the ocean in a Catamaran; you just must give me time to orchestrate my time.
 <br/>
 <br/>
-<div>
-  <
-</div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -44,12 +38,11 @@ A Full-stack Developer, AI, and ML Builder
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 <br/>
 <br/>
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxavsoul)](https://github.com/anuraghazra/github-readme-stats)
