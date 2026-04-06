@@ -45,4 +45,13 @@ A Full-stack Developer, AI, and ML Builder
 <br/>
 <br/>
 
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [JobUp-Administrator](https://github.com/dxavsoul/JobUp-Administrator) | A comprehensive job platform connecting job seekers with employers, featuring voice-enabled resume building, an ATS system, and AI integrations. | FastAPI, React, TypeScript, PostgreSQL |
+| [Fintech App](https://github.com/dxavsoul/fintech_app) | A Flutter-based starter project for fintech companies providing a solid foundation for mobile banking apps, featuring account creation, credit card issuance flows, KYC with AI-powered document extraction and liveness detection, authentication, Stripe payments, Firebase backend, and multi-language support. | Flutter, Dart, Firebase, Stripe, Google Gemini AI |
+
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxavsoul)](https://github.com/anuraghazra/github-readme-stats)
