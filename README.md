@@ -110,8 +110,8 @@ I thrive at the intersection of business and technology: translating complex req
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxavsoul&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxavsoul)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxavsoul&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dxavsoul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
