@@ -101,8 +101,7 @@ I thrive at the intersection of business and technology: translating complex req
 
 | Role | Company | Period |
 |------|---------|--------|
-| CDL Bus Operator *(frontline tech insights)* | Metropolitan Transportation Authority (MTA) | Oct 2025 – Present |
-| Senior Software Architect / Developer | Brain Solutions LLC | Nov 2024 – Oct 2025 |
+| Senior Software Architect / Developer | Brain Solutions LLC | Nov 2024 – present |
 | Flutter Developer Consultant | YLift | Feb – Mar 2025 |
 | Senior Software Developer | Smart Cab Technologies | Nov 2016 – Oct 2024 |
 | Chief Technology Officer | Safe Ride Dispatch LLC | Feb 2017 – Oct 2024 |
