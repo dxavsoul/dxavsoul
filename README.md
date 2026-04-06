@@ -91,7 +91,8 @@ I thrive at the intersection of business and technology: translating complex req
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [JobUp-Administrator](https://github.com/dxavsoul/JobUp-Administrator) | A comprehensive job platform connecting job seekers with employers. Features voice-enabled resume building, an Applicant Tracking System (ATS), and AI-powered matching. | FastAPI · React · TypeScript · PostgreSQL |
-| [Fintech App](https://github.com/dxavsoul/fintech_app) | A production-ready Flutter starter for fintech companies. Includes account creation, credit card issuance, KYC with AI-powered document extraction and liveness detection, Stripe payments, and a Firebase backend. | Flutter · Dart · Firebase · Stripe · Google Gemini AI |
+| [CorFinance — Core Banking System](https://github.com/dxavsoul/coop_fintech) | A microservice-based Core Banking System powering the CorFinance Flutter app. Covers customer KYC onboarding, multi-type bank accounts, debit card issuance, deposits/withdrawals/transfers via RabbitMQ, push notifications (FCM), and enterprise IAM via Keycloak + JWT. Backend engine for cooperative financial institutions and modern fintech companies. | Java · Spring Boot 3 · PostgreSQL · Keycloak · RabbitMQ · Firebase · Docker |
+| [Fintech App](https://github.com/dxavsoul/fintech_app) | A production-ready Flutter mobile client for the CorFinance Core Banking System. Includes account creation, credit card issuance, KYC with AI-powered document extraction and liveness detection (Google Gemini), Stripe payments, and a Firebase backend. | Flutter · Dart · Firebase · Stripe · Google Gemini AI |
 | [Dispatch ↔ WhatsApp Bot](https://github.com/dxavsoul) | An intelligent integration layer between dispatch software and WhatsApp using a local LLM (Ollama) to handle ride requests conversationally. | Ollama · WhatsApp API · Node.js |
 
 ---
