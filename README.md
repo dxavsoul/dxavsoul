@@ -110,7 +110,7 @@ I thrive at the intersection of business and technology: translating complex req
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxavsoul&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -118,7 +118,7 @@ I thrive at the intersection of business and technology: translating complex req
 
 </div>
 
----
+--- -->
 
 <div align="center">
   <i>20+ years building software. Always learning. Open to full-time roles, contract work, and meaningful collaborations.</i><br/><br/>
