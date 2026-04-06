@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem96M24xa21mcmowOHk1dzh1ZXNqY3M1bXptMWp4Yng1eGMzdWF6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" width="100"/>
 
-  # Hi, I'm Xavier Sarmiento 👋
+  # Hi, I'm Milton Xavier Sarmiento 👋
   ### Senior Full-Stack Developer & Software Architect · 20+ Years of Experience · Open to New Opportunities
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mxsarmiento.brainsolutions.nyc)
@@ -94,6 +94,7 @@ I thrive at the intersection of business and technology: translating complex req
 | [CorFinance — Core Banking System](https://github.com/dxavsoul/coop_fintech) | A microservice-based Core Banking System powering the CorFinance Flutter app. Covers customer KYC onboarding, multi-type bank accounts, debit card issuance, deposits/withdrawals/transfers via RabbitMQ, push notifications (FCM), and enterprise IAM via Keycloak + JWT. Backend engine for cooperative financial institutions and modern fintech companies. | Java · Spring Boot 3 · PostgreSQL · Keycloak · RabbitMQ · Firebase · Docker |
 | [Fintech App](https://github.com/dxavsoul/fintech_app) | A production-ready Flutter mobile client for the CorFinance Core Banking System. Includes account creation, credit card issuance, KYC with AI-powered document extraction and liveness detection (Google Gemini), Stripe payments, and a Firebase backend. | Flutter · Dart · Firebase · Stripe · Google Gemini AI |
 | [Barberdule](https://github.com/dxavsoul/barberdule) | A Flutter app built for barbershops and individual barbers that revolutionizes appointment scheduling. Connects barbers with clients for seamless booking management. Built with Firebase as the backend and the BLoC pattern for clean, maintainable architecture. Originally developed with Cursor and refactored to BLoC to optimize performance and reduce unnecessary code generation. | Flutter · Dart · Firebase · BLoC |
+| [Legendary Happiness — Resume Portfolio Template](https://github.com/dxavsoul/legendary-happiness) | A blazing-fast, SEO-optimized personal portfolio/resume website template to help developers land their next job. Fully customizable in minutes, mobile-responsive, and deployable to Vercel. Built with Next.js, modern Geist fonts, and Google Analytics integration. | Next.js · TypeScript · SCSS · Vercel |
 | [Dispatch ↔ WhatsApp Bot](https://github.com/dxavsoul) | An intelligent integration layer between dispatch software and WhatsApp using a local LLM (Ollama) to handle ride requests conversationally. | Ollama · WhatsApp API · Node.js |
 
 ---
